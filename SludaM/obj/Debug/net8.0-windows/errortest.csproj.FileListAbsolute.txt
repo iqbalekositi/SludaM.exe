@@ -1,0 +1,17 @@
+F:\my creation\errortest\errortest\bin\Debug\net8.0-windows\errortest.exe
+F:\my creation\errortest\errortest\bin\Debug\net8.0-windows\errortest.deps.json
+F:\my creation\errortest\errortest\bin\Debug\net8.0-windows\errortest.runtimeconfig.json
+F:\my creation\errortest\errortest\bin\Debug\net8.0-windows\errortest.dll
+F:\my creation\errortest\errortest\bin\Debug\net8.0-windows\errortest.pdb
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.csproj.GenerateResource.cache
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.GeneratedMSBuildEditorConfig.editorconfig
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.AssemblyInfoInputs.cache
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.AssemblyInfo.cs
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.csproj.CoreCompileInputs.cache
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.dll
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\refint\errortest.dll
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.pdb
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.genruntimeconfig.cache
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\ref\errortest.dll
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.Form1.resources
+F:\my creation\errortest\errortest\obj\Debug\net8.0-windows\errortest.Properties.Resources.resources
